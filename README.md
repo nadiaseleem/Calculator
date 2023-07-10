@@ -11,7 +11,6 @@ download app apk: https://www.mediafire.com/file/mjjojz3oltz9860/app-calculator.
 <p align="center">
   
   <img src="https://github.com/nadiaseleem/Calculator/assets/37695970/c8b6db81-8482-4b00-84c0-8f7f02ddf839" width="279" height="600">
-
     <img src="https://github.com/nadiaseleem/Calculator/assets/37695970/5f09bc5a-e40c-44b9-b760-fa135f284ff6" width="279" height="600">
   
 </p>
